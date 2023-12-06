@@ -1,10 +1,15 @@
 # MAZMDER-FASHION-RESORT-MYSQL.SCRIPT
-MAZUMDER FASHION RESORT IS A FASHION MALL HAVING 7 DIFFERENT DEPARTMENTS WITH MANY EMPLOYEES. 
+
+MAZUMDER FASHION RESORT IS A FASHION MALL HAVING SEVEN DIFFERENT DEPARTMENTS WITH MANY EMPLOYEES. 
+
 EACH DEPARTMENT HAS SPECIFIC EXPERT TO DO THEIR ASSIGHED JOB ACCORDING TO THEIR DOMAIN KNOWLEDGE. 
+
 SO THE SEVEN DIFFERENT DEPARTMENTS ARE :
 TEXTILE, FOOTWEAR, COSMETICS, JEWELLERY, PARLOUR, TAILOR AND GIFTS & MISCELLANEOUS ITEMS. 
+
 ATLEST EACH DEPARTMENT HAS 6 EMPLOYEES :
 MANAGER, SUPERVISOR, ACCOUNTANT, CLERK, SALESMAN, BEAUTICIANS, FASHION DESIGNER AND ANALYST. 
+
 OBJECTIVE OF THE PROJECT IS REAL APPLICATION OF most relevant SQL QUERIES WITH PROPER Syntax using mysql workbench. 
 
 Topics are as follows :
@@ -56,8 +61,11 @@ Order By clause
 Limit clause
 
 SQL FUNCTIONS :
-Aggregate functions/Multi row functions/Group functions(count(),sum(),average(),min(),max(),std.dev(),variance()) 
-Single Row functions (Character function,Number function,Data function) 
+Aggregate functions/Multi row functions/Group functions
+(count(),sum(),average(),min(),max(),std.dev(),variance()) 
+
+Single Row functions 
+(Character function,Number function,Data function) 
 
 SQL UNIONS
 Union
