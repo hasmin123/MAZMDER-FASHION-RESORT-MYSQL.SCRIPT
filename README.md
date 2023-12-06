@@ -16,51 +16,82 @@ Topics are as follows :
 
 SQL COMMANDS:
 
-DDL Command (Data Definition Language):
+DDL COMMAND (DATA DEFINITION LANGUAGE):
+
 Create command 
+
 Alter command 
+
 Drop command 
+
 Truncate command 
+
 Rename command 
 
-DML Command (Data Manipulation Language) 
+DML COMMAND (DATA MANIPULATION  LANGUAGE ) 
+
 Select command 
+
 Insert command 
+
 Update command 
+
 Delete command 
 
 Triggers :
+
 Create trigger (Before & after)
+
 Update trigger (Before & after) 
+
 Delete trigger (Before & after)
 
 DATA TYPES:
+
 String 
+
 Numeric
+
 Date & time 
+
 Bollean 
 
 CONSTRAINTS :
+
 Primary Constraint
+
 Foreign Constraint 
-Default Constraint 
+
+Default Constraint
+
 Check Constraint 
+
 Not Null
+
 Unique Constraint
 
-SQL OPERATORS
+SQL OPERATORS:
+
 Arithmetic operators 
+
 Comparison operators 
-Logical operators 
+
+Logical operators
+
 Special operators 
 
 SQL CLAUSE:
+
 Group By clause 
+
 Having clause
-Order By clause 
+
+Order By clause
+
 Limit clause
 
 SQL FUNCTIONS :
+
 Aggregate functions/Multi row functions/Group functions
 Count()
 Sum()
@@ -70,14 +101,19 @@ Max()
 Std.dev()
 Variance()) 
 
-Single Row functions 
+SINGLE ROW FUNCTIONS: 
+
 Character function
+
 Number function
+
 Data function
 
-SQL UNIONS
+SQL UNIONS :
+
 Union
 Union All
+
 
 ALIAS
 
