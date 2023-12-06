@@ -62,10 +62,18 @@ Limit clause
 
 SQL FUNCTIONS :
 Aggregate functions/Multi row functions/Group functions
-(count(),sum(),average(),min(),max(),std.dev(),variance()) 
+Count()
+Sum()
+Average()
+Min()
+Max()
+Std.dev()
+Variance()) 
 
 Single Row functions 
-(Character function,Number function,Data function) 
+Character function
+Number function
+Data function
 
 SQL UNIONS
 Union
@@ -74,8 +82,13 @@ Union All
 ALIAS
 
 SQL JOINS
+
 Inner join
+
 Outer join (Left join,Right join,Full join) 
+
 Cross join (cartesian join) 
+
 Natural join
+
 Self join
