@@ -8,13 +8,16 @@ MANAGER, SUPERVISOR, ACCOUNTANT, CLERK, SALESMAN, BEAUTICIANS, FASHION DESIGNER 
 OBJECTIVE OF THE PROJECT IS REAL APPLICATION OF most relevant SQL QUERIES WITH PROPER Syntax using mysql workbench. 
 
 Topics are as follows :
+
 SQL COMMANDS:
+
 DDL Command (Data Definition Language):
 Create command 
 Alter command 
 Drop command 
 Truncate command 
 Rename command 
+
 DML Command (Data Manipulation Language) 
 Select command 
 Insert command 
