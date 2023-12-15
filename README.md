@@ -70,7 +70,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
      Unique Constraint
 
--SQL OPERATORS:
+- SQL OPERATORS:
 
      Arithmetic operators 
 
@@ -80,7 +80,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
      Special operators 
 
--SQL CLAUSE:
+- SQL CLAUSE:
 
      Group By clause 
 
@@ -90,7 +90,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
      Limit clause
 
--SQL FUNCTIONS :
+- SQL FUNCTIONS :
 
 AGGREGATE FUNCTIONS /MULTI ROW FUNCTIONS /GROUPS FUNCTIONS 
  
@@ -116,15 +116,15 @@ SINGLE ROW FUNCTIONS
 
     Data function
 
--SQL UNIONS :
+- SQL UNIONS :
 
     Union
    
     Union All
 
--ALIAS
+- ALIAS
 
--SQL JOINS
+- SQL JOINS
 
    Inner join
 
