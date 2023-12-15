@@ -14,117 +14,124 @@ OBJECTIVE OF THE PROJECT IS REAL APPLICATION OF most relevant SQL QUERIES WITH P
 
 Topics are as follows :
 
-SQL COMMANDS:
+- SQL COMMANDS:
 
 DDL COMMAND (DATA DEFINITION LANGUAGE):
 
-Create command 
+      Create command 
 
-Alter command 
+      Alter command 
 
-Drop command 
+      Drop command 
 
-Truncate command 
+      Truncate command 
 
-Rename command 
+      Rename command 
 
 DML COMMAND (DATA MANIPULATION  LANGUAGE ) 
 
-Select command 
+      Select command 
 
-Insert command 
+      Insert command 
 
-Update command 
+      Update command 
 
-Delete command 
+      Delete command 
 
-Triggers :
+- TRIGGERS :
 
-Create trigger (Before & after)
+     Create trigger (Before & after)
 
-Update trigger (Before & after) 
+     Update trigger (Before & after) 
 
-Delete trigger (Before & after)
+     Delete trigger (Before & after)
 
-DATA TYPES:
+- DATA TYPES:
 
-String 
+     String 
 
-Numeric
+     Numeric
+ 
+     Date & time 
 
-Date & time 
+     Bollean 
 
-Bollean 
+- CONSTRAINTS :
 
-CONSTRAINTS :
+     Primary Constraint 
 
-Primary Constraint
+     Foreign Constraint 
 
-Foreign Constraint 
+     Default Constraint
 
-Default Constraint
+     Check Constraint 
 
-Check Constraint 
+     Not Null
 
-Not Null
+     Unique Constraint
 
-Unique Constraint
+-SQL OPERATORS:
 
-SQL OPERATORS:
+     Arithmetic operators 
 
-Arithmetic operators 
+     Comparison operators 
 
-Comparison operators 
+     Logical operators
 
-Logical operators
+     Special operators 
 
-Special operators 
+-SQL CLAUSE:
 
-SQL CLAUSE:
+     Group By clause 
 
-Group By clause 
+     Having clause
 
-Having clause
+     Order By clause
 
-Order By clause
+     Limit clause
 
-Limit clause
+-SQL FUNCTIONS :
 
-SQL FUNCTIONS :
+AGGREGATE FUNCTIONS /MULTI ROW FUNCTIONS /GROUPS FUNCTIONS 
+ 
+     Count()
+    
+     Sum()
+    
+     Average()
+    
+     Min()
+    
+     Max()
+    
+     Std.dev()
+    
+     Variance()) 
 
-Aggregate functions/Multi row functions/Group functions
-Count()
-Sum()
-Average()
-Min()
-Max()
-Std.dev()
-Variance()) 
+SINGLE ROW FUNCTIONS 
 
-SINGLE ROW FUNCTIONS: 
+    Character function
 
-Character function
+    Number function
 
-Number function
+    Data function
 
-Data function
+-SQL UNIONS :
 
-SQL UNIONS :
+    Union
+   
+    Union All
 
-Union
-Union All
+-ALIAS
 
+-SQL JOINS
 
-ALIAS
+   Inner join
 
-SQL JOINS
+   Outer join (Left join,Right join,Full join) 
 
-Inner join
+   Cross join (cartesian join) 
 
-Outer join (Left join,Right join,Full join) 
+   Natural join
 
-Cross join (cartesian join) 
-
-Natural join
-
-Self join
+   Self join
