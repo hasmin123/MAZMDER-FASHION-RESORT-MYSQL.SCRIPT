@@ -124,14 +124,14 @@ SQL UNIONS :
 
 - ALIAS
 
-SQL JOINS
+SQL JOINS  :
 
-   Inner join
+    Inner join
 
-   Outer join (Left join,Right join,Full join) 
+    Outer join (Left join,Right join,Full join) 
 
-   Cross join (cartesian join) 
+    Cross join (cartesian join) 
 
-   Natural join
+    Natural join
 
-   Self join
+    Self join
