@@ -38,7 +38,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
       Delete command 
 
-- TRIGGERS :
+TRIGGERS :
 
      Create trigger (Before & after)
 
@@ -46,7 +46,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
      Delete trigger (Before & after)
 
-- DATA TYPES:
+DATA TYPES:
 
      String 
 
@@ -56,7 +56,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
      Bollean 
 
-- CONSTRAINTS :
+CONSTRAINTS :
 
      Primary Constraint 
 
@@ -70,7 +70,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
      Unique Constraint
 
-- SQL OPERATORS:
+SQL OPERATORS:
 
      Arithmetic operators 
 
@@ -80,7 +80,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
      Special operators 
 
-- SQL CLAUSE:
+SQL CLAUSE:
 
      Group By clause 
 
@@ -90,7 +90,7 @@ DML COMMAND (DATA MANIPULATION  LANGUAGE )
 
      Limit clause
 
-- SQL FUNCTIONS :
+SQL FUNCTIONS :
 
 AGGREGATE FUNCTIONS /MULTI ROW FUNCTIONS /GROUPS FUNCTIONS 
  
@@ -116,7 +116,7 @@ SINGLE ROW FUNCTIONS
 
     Data function
 
-- SQL UNIONS :
+SQL UNIONS :
 
     Union
    
@@ -124,7 +124,7 @@ SINGLE ROW FUNCTIONS
 
 - ALIAS
 
-- SQL JOINS
+SQL JOINS
 
    Inner join
 
